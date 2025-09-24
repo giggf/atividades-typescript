@@ -1,2 +1,3 @@
-# atividades-typescript
-Atividades da matéria Programação Typescript lecionada pelo professor Eduardo Popovici
+## Nome: Giovana de Godoy Felisbino ; RA: 2507579
+
+
